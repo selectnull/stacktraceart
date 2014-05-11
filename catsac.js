@@ -107,4 +107,6 @@ function TheCatInTheSacException () {
         "Be careful the cat! No say the cat is in the sac when you have not the cat in the sac.");
 }
 
-module.exports.TheCatInTheSacException = TheCatInTheSacException;
+if (typeof module !== 'undefined') {
+    module.exports.TheCatInTheSacException = TheCatInTheSacException;
+}
