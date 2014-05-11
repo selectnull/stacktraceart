@@ -1,33 +1,5 @@
 ﻿"use strict";
 
-/*
-TheCatInTheSacException
-Be careful the cat! No say the cat is in the sac when you have not the cat in the sac.
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaㅤㅤㅤㅤㅤㅤaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaㅤㅤㅤㅤㅤaaaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaafaaaaaaafaaaaaaaaaㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaaaaㅤㅤaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤaㅤㅤㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤaaaㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤaaaㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤaaaㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤaaaㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤaaaㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤaaaㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤaaaㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤaaaㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤaaaaaaaaaaaaaaaaaaaaaaaaaㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ()
-
-*/
 
 function ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ() {
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ();
@@ -96,15 +68,25 @@ function ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaㅤㅤㅤㅤㅤㅤaㅤ
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ();
 }
 
-/*
 function ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ() {
+    try {
+        throw new Error("");
+    } catch (e) {
+        if (typeof window === "object") {
+            console.log(e.stack);
+        }
+        throw e;
+    }
 }
-*/
 
 function TheCatInTheSacException () {
-    // throw new TheCatInTheSacException("Be careful the cat! No say the cat is in the sac when you have not the cat in the sac.");
-    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(
-        "Be careful the cat! No say the cat is in the sac when you have not the cat in the sac.");
+    var stl = Error.stackTraceLimit,
+        msg = "Be careful the cat! No say the cat is in the sac when you have not the cat in the sac.";
+
+    Error.stackTraceLimit = 100;
+    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ();
+    Error.stackTraceLimit = stl;
+
 }
 
 if (typeof module !== 'undefined') {
